@@ -1,6 +1,6 @@
 {
   "name": "generator-doc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This package sets up the default starting points for websites using Parcel.",
   "license": "MIT",
   "homepage": "https://github.com/frankperez87/generator-doc#readme",

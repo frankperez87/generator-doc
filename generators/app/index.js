@@ -7,7 +7,7 @@ module.exports = class extends Generator
     prompting() 
     {
         this.log(
-            yosay(`Hey I'm ${chalk.red('Frank')}. Let's start building with Parcel...`)
+            yosay(`Hey I'm ${chalk.red('Doc')}. Let's start building with Parcel...`)
         );
 
         const prompts = [
