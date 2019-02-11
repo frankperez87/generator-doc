@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "parcel:serve": "node_modules/.bin/parcel src/index.html -d public/",
+    "parcel:watch": "node_modules/.bin/parcel watch src/index.html -d public/",
+    "parcel:build": "node_modules/.bin/parcel build src/index.html -d public/"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^2.5.2",
+    "parcel-bundler": "^1.11.0",
+    "sass": "^1.17.0",
+    "tailwindcss": "^0.7.4",
+    "vue": "^2.6.4",
+    "vue-router": "^3.0.2",
+    "vue-template-compiler": "^2.6.4",
+    "vue-hot-reload-api": "^2.3.1"
+  }
+}

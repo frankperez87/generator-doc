@@ -1,0 +1,32 @@
+{
+  "name": "generator-doc",
+  "version": "0.1.0",
+  "description": "This package sets up the default starting points for websites using Parcel.",
+  "license": "MIT",
+  "homepage": "https://github.com/frankperez87/generator-doc#readme",
+  "repository": "frankperez87/generator-doc",
+  "bugs": {
+    "url": "https://github.com/frankperez87/generator-doc/issues"
+  },
+  "keywords": [
+    "parcel",
+    "vue",
+    "doc",
+    "bootstrap",
+    "tailwind",
+    "yeoman-generator"
+  ],
+  "author": {
+    "name": "Frank Perez",
+    "email": "frank@fjp.io",
+    "url": "https://fjp.io"
+  },
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "yeoman-generator": "^3.2.0",
+    "yosay": "^2.0.2"
+  },
+  "files": [
+    "src"
+  ]
+}
